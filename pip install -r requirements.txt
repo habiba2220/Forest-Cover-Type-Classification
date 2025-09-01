@@ -1,0 +1,6 @@
+
+3. Download the dataset from [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Covertype) and place it in the data folder.
+
+## Usage
+
+Run the Jupyter notebook to see the complete analysis:
