@@ -53,6 +53,5 @@ The Covertype dataset from UCI Machine Learning Repository contains 54 features 
 - Climate change impact assessment on forest ecosystems
 - Wildfire risk assessment and prevention planning
 
-## Installation
-
-1. Clone this repository:
+## note book
+https://colab.research.google.com/drive/1iM9RQHqJjCiMXK9Zqo76GLVakwKrg2bB?authuser=0#scrollTo=giKUGO0wdR3p
